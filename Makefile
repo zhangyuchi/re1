@@ -3,7 +3,7 @@
 # license that can be found in the LICENSE file.
 
 CC=gcc
-CFLAGS=-ggdb -Wall -O3
+CFLAGS=-ggdb -Wall
 
 FILE_A= libre1.a
 
